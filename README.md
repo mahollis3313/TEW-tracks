@@ -2,7 +2,7 @@
 
 ## This data is associated with the paper "A Global Climatology of Tropical Easterly Waves"
 
-As of 3 November 2023, the paper has been accepted and is in the process of being published.
+This paper was accepted on 3 November 2023, was published online 7 December 2023, and in print March 2024. The DOI for the paper is https://doi.org/10.1007/s00382-023-07025-w
 
 This repository contains TEW tracks based on MERRA-2 curvature vorticity (CV). All cyclonic features were tracked using TRACK (Hodges 1995), and TEWs were identified from the output. More details can be found in the associated paper. Variables including TEW distance traveled, average speed, and maximum CV have been added.
 
